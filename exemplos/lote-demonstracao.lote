@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<br.com.scmtecmatic.titanium.lote code="DEMONSTRACAO - CONFERENCIA" version="Version1" id="1">
+<br.com.scmtecmatic.titanium.lote.material id="1" code="DEMO-1" color="Branco" description="Cores.Branco - MDF - 15" type="MDF" lenght="2750" width="1830" thickness="15">
+<br.com.scmtecmatic.titanium.lote.material.programa id="1" number="1" quantity="1" lenght="2750" width="1830" thickness="15">
+<br.com.scmtecmatic.titanium.lote.material.programa.corte id="0" type="RX" quantity="1" value="15"/>
+<br.com.scmtecmatic.titanium.lote.material.programa.corte id="1" type="X" quantity="1" value="400"><br.com.scmtecmatic.titanium.lote.material.programa.corte.dados quantity="1" template="1">
+<br.com.scmtecmatic.titanium.lote.material.programa.corte.dados.campo name="1" value="Cliente de exemplo"/>
+<br.com.scmtecmatic.titanium.lote.material.programa.corte.dados.campo name="3" value="Dimensão: 60 x 40 x 1.5"/>
+<br.com.scmtecmatic.titanium.lote.material.programa.corte.dados.campo name="4" value="lotes/exemplo-images/100.jpg"/>
+<br.com.scmtecmatic.titanium.lote.material.programa.corte.dados.campo name="5" value="Cores.Branco - MDF - 15"/>
+<br.com.scmtecmatic.titanium.lote.material.programa.corte.dados.campo name="6" value="Peça: 100 - Porta de exemplo"/>
+</br.com.scmtecmatic.titanium.lote.material.programa.corte.dados></br.com.scmtecmatic.titanium.lote.material.programa.corte>
+<br.com.scmtecmatic.titanium.lote.material.programa.corte id="2" type="X" quantity="1" value="400"><br.com.scmtecmatic.titanium.lote.material.programa.corte.dados quantity="1" template="1">
+<br.com.scmtecmatic.titanium.lote.material.programa.corte.dados.campo name="1" value="Cliente de exemplo"/>
+<br.com.scmtecmatic.titanium.lote.material.programa.corte.dados.campo name="3" value="Dimensão: 60 x 40 x 1.5"/>
+<br.com.scmtecmatic.titanium.lote.material.programa.corte.dados.campo name="4" value="lotes/exemplo-images/101.jpg"/>
+<br.com.scmtecmatic.titanium.lote.material.programa.corte.dados.campo name="5" value="Cores.Branco - MDF - 15"/>
+<br.com.scmtecmatic.titanium.lote.material.programa.corte.dados.campo name="6" value="Peça: 101 - Porta de exemplo"/>
+</br.com.scmtecmatic.titanium.lote.material.programa.corte.dados></br.com.scmtecmatic.titanium.lote.material.programa.corte>
+<br.com.scmtecmatic.titanium.lote.material.programa.corte id="99" type="U*" quantity="0" value="0"/>
+</br.com.scmtecmatic.titanium.lote.material.programa></br.com.scmtecmatic.titanium.lote.material>
+<br.com.scmtecmatic.titanium.lote.material id="2" code="DEMO-2" color="BRANCO" description="ISOPOR" type="" lenght="2440" width="2150" thickness="18">
+<br.com.scmtecmatic.titanium.lote.material.programa id="1" number="1" quantity="1" lenght="2440" width="2150" thickness="18">
+<br.com.scmtecmatic.titanium.lote.material.programa.corte id="0" type="RX" quantity="1" value="15"/>
+<br.com.scmtecmatic.titanium.lote.material.programa.corte id="1" type="X" quantity="1" value="400"><br.com.scmtecmatic.titanium.lote.material.programa.corte.dados quantity="1" template="1">
+<br.com.scmtecmatic.titanium.lote.material.programa.corte.dados.campo name="1" value="Cliente de exemplo"/>
+<br.com.scmtecmatic.titanium.lote.material.programa.corte.dados.campo name="3" value="Dimensão: 46.8 x 7 x 1.8"/>
+<br.com.scmtecmatic.titanium.lote.material.programa.corte.dados.campo name="4" value="lotes/exemplo-images/200.jpg"/>
+<br.com.scmtecmatic.titanium.lote.material.programa.corte.dados.campo name="5" value="ISOPOR"/>
+<br.com.scmtecmatic.titanium.lote.material.programa.corte.dados.campo name="6" value="Peça: 200 - Sarrafo de exemplo"/>
+</br.com.scmtecmatic.titanium.lote.material.programa.corte.dados></br.com.scmtecmatic.titanium.lote.material.programa.corte>
+<br.com.scmtecmatic.titanium.lote.material.programa.corte id="99" type="U*" quantity="0" value="0"/>
+</br.com.scmtecmatic.titanium.lote.material.programa></br.com.scmtecmatic.titanium.lote.material>
+</br.com.scmtecmatic.titanium.lote>
